@@ -11,7 +11,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <Flex as="nav" p="10px" align="center">
+    <Flex as="nav" p="10px" mb="40px" align="center">
       <Heading as="h1">Dojo Tasks</Heading>
       <Spacer />
       <HStack spacing="10px">
